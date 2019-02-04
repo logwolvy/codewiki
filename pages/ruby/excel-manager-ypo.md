@@ -1,8 +1,8 @@
-# Test Transaction
+# Excel Manager
 
 ```ruby
 
-class BaseExcelManager
+class ExcelManager
   attr_accessor :file, :current_user, :custom_class, :record
 
   def initialize(file, current_user, entity)

@@ -1,3 +1,3 @@
-
-- [test-transaction](/pages/ruby/test-transaction-ypo.md)
-- [test-transaction](/pages/ruby/test-transaction-led.md)
+- [Excel Manager](/pages/ruby/excel-manager-ypo)
+- [Auto-require-All-.rb-Files-in-a-Folder](/pages/ruby/Auto-require-All-rb-Files-in-a-Folder-ggs)
+- [search-contents-of-files](/pages/ruby/search-contents-of-files-hpf)
