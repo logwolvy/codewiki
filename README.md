@@ -1,3 +1,3 @@
-# ***REMOVED***-code-wiki
+# ***REMOVED*** Code Wiki
 
-Test
+<h4>A collection of well-written snippets of reusable code</h4>
