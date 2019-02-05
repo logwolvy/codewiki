@@ -1,3 +1,4 @@
 - [Excel Manager](/pages/ruby/excel-manager-ypo)
 - [Auto-require-All-.rb-Files-in-a-Folder](/pages/ruby/Auto-require-All-rb-Files-in-a-Folder-ggs)
 - [search-contents-of-files](/pages/ruby/search-contents-of-files-hpf)
+- [s3-upload-service](/pages/ruby/s3-upload-service-nhh.md)
