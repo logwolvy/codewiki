@@ -3,3 +3,4 @@
 - [search-contents-of-files](/pages/ruby/search-contents-of-files-hpf)
 - [s3-upload-service](/pages/ruby/s3-upload-service-nhh.md)
 - [order-generation](/pages/ruby/order-generation-kxa.md)
+- [excel-reader](/pages/ruby/excel-reader-wid.md)
